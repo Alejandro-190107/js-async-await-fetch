@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Valentina",
+        "apellido": "Acevedo",
+        "telefono": 7712428567
+    },
+
+    {
+        "nombre": "Sebastián",
+        "apellido": "Cabañas",
+        "telefono": 7714428568
+    },
+
+    {
+        "nombre": "Alejandro",
+        "apellido": "Quiroga",
+        "telefono": 7712438288
+    },
+    
+    {
+        "nombre": "Margarita",
+        "apellido": "Narváez",
+        "telefono": 7711458669
+    }
+
+]
